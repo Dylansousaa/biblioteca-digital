@@ -9,11 +9,11 @@
 
 | Campo | Valor |
 |------|------|
-| Nome | [SEU NOME COMPLETO] |
+| Nome | [Dylan Sousa Zebreiro] |
 | Turma | Microservices Academy 2026 |
 | Lab | Lab Alternativo – Dia 1 (Tarde) |
-| Data de entrega | [DATA] |
-| Email | [SEU EMAIL] |
+| Data de entrega | [10/03/2026] |
+| Email | [dylan.zebreiro@timwetech.com] |
 
 ---
 
